@@ -1,2 +1,2 @@
-# Desafio Dio XP Calculadora in REACT
+# Desafio-Dio-XP-Calculadora-REACT
 Desafio para criar uma calculadora simples utilizando REACT.
